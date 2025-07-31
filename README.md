@@ -23,9 +23,12 @@ These files are **not meant to be installed directly**. They are here for backup
 
 You’ll need a working Hyprland environment. Some tools and dependencies these configs rely on include:
 
-- Waybar
-- Rofi
-- Kitty
+- waybar
+- cava
+- dunst
+- [nvim kickstart](https://github.com/nvim-lua/kickstart.nvim)
+- rofi
+- kitty
 - Wlogout
 - hyprpaper
 - Nerd Fonts
