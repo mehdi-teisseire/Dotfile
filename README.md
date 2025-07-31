@@ -11,7 +11,9 @@ These are just my backup config files. The repo includes:
 - `~/.config/rofi/` – Rofi launcher/theme
 - `~/.config/kitty/` – Kitty terminal settings
 - `~/.config/wlogout/` – Wlogout config
-- ~/.config/nvim/ - Nvim config
+- `~/.config/nvim/` - Nvim config
+- `~/.config/dunst/` – Dunst config
+- `~/.config/cava/` – Cava config
 
 ## 💡 Note
 
