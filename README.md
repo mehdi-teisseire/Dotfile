@@ -26,12 +26,12 @@ You’ll need a working Hyprland environment. Some tools and dependencies these 
 - waybar
 - cava
 - dunst
-- [nvim kickstart](https://github.com/nvim-lua/kickstart.nvim)
 - rofi
 - kitty
 - Wlogout
 - hyprpaper
 - Nerd Fonts
+- [Kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 - A Wayland-compatible system (e.g., Arch Linux with `wlroots`)
 
 ## 📸 Screenshots
